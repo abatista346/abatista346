@@ -36,3 +36,7 @@ What I care about in a project: framing the business question first, being hones
 - **From question to decision** — every project ends with a recommendation and the assumptions behind it, not just a metric.
 - **Statistical honesty** — baselines first, confidence intervals over point estimates, and calibrated probabilities before any expected-value math.
 - **Production mindset** — reproducible pipelines, stable scoring rules, and tools that non-technical teams actually adopt.
+
+---
+
+📫 **Contact:** [LinkedIn](https://www.linkedin.com/in/adilson-batista-493b0570/)
