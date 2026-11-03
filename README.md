@@ -2,7 +2,7 @@
 
 **Senior Data Analyst → Data Scientist** · Brazil · Open to roles in Canada and remote
 
-I turn messy business data into decisions. My background is in data and planning at companies across **e-commerce (Mercado Livre)**, **insurance (BNP Paribas Cardif)**, **global shipping (ONE – Ocean Network Express)** and **accounting SaaS (Contabilizei)**, where I built production ML lead scoring for sales teams, analytics pipelines, and internal tools that people use every day.
+I turn messy business data into decisions. My background is in data and planning at companies across **e-commerce (Mercado Livre)**, **insurance (BNP Paribas Cardif)** and **accounting SaaS (Contabilizei)**, where I built production ML lead scoring for sales teams, analytics pipelines, and internal tools that people use every day.
 
 What I care about in a project: framing the business question first, being honest about what the model can and can't do, and ending with a recommendation someone can act on.
 
