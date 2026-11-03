@@ -26,6 +26,7 @@ What I care about in a project: framing the business question first, being hones
 |---|---|
 | [**Lead Scoring — Repeat-Purchase Propensity**](https://github.com/abatista346/lead-scoring-ml) | Imbalanced classification (3% positive rate), XGBoost vs. CatBoost with bootstrap confidence intervals, probability calibration, production-stable tiering, and campaign economics that say *who to contact and whether it pays off*. |
 | [**A/B Test Readout — Game Retention**](https://github.com/abatista346/ab-test-retention) | Experiment analysis in SQL + Python: sample-ratio check, pre-declared metrics, two-proportion tests, multiple-testing correction, power analysis and a ship/no-ship decision. |
+| [**E-commerce Analytics in SQL**](https://github.com/abatista346/ecommerce-sql-analytics) | BigQuery SQL for growth, cohort retention, funnel by channel, RFM and category margins — every query unit-tested in CI by transpiling it to DuckDB. |
 | [**Retail Sales Forecasting**](https://github.com/abatista346/retail-sales-forecasting) | Time-series pipeline benchmarked against naive baselines — and an honest report when the simple baseline wins. |
 | [**Smart Issue Tracker**](https://github.com/abatista346/smart-issue-tracker) | Kanban issue tracker with a management dashboard, running entirely on Google Apps Script + Sheets — zero infrastructure. |
 
